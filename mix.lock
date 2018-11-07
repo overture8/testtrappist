@@ -1,0 +1,4 @@
+%{
+  "trappist": {:git, "https://github.com/robconery/trappist.git", "42820e0f5a3733a4a5d3122b2000a70145d8dae2", []},
+  "uuid": {:hex, :uuid, "1.1.8", "e22fc04499de0de3ed1116b770c7737779f226ceefa0badb3592e64d5cfb4eb9", [:mix], [], "hexpm"},
+}
